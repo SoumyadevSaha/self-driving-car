@@ -1,4 +1,4 @@
-# self-driving-car
+# Self-Driving Car
 A self-driving car model made with pygame and neat library to train neural netwroks.
 
 ## Libraries and Setup:
@@ -57,3 +57,10 @@ The population undergoes evolution and fitness evaluation through the NEAT algor
 - Simulates a game environment where cars (controlled by evolved neural networks) navigate a track.
 - NEAT is employed to evolve neural networks for decision-making.
 - Cars use radar sensing, collision detection, and NEAT-optimized neural networks to navigate.
+
+## Getting Started
+- Fork and Clone the repo or donload the zip 
+- run the `main.py` file
+
+## Screenshots
+<img width="1066" alt="Screenshot 2024-04-23 at 12 47 19 PM" src="https://github.com/SoumyadevSaha/self-driving-car/assets/86418216/b19c73a3-975d-4465-88e7-03e9afa32454">
