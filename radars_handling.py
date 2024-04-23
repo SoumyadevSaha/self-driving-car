@@ -1,4 +1,4 @@
-# Handling the radars to check the distance betwee the car and the edge of the track ->
+# Handling the radars to check the distance between the car and the edge of the track ->
 
 import pygame
 import os
